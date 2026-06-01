@@ -1,0 +1,5 @@
+flask>=3.0.0
+flask-socketio>=5.3.6
+scapy>=2.5.0
+fpdf2>=2.7.0
+python-dotenv>=1.0.0

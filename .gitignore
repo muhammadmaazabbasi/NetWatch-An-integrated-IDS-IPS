@@ -1,0 +1,27 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Logs and local runtime files
+*.log
+
+# Packet captures may contain sensitive network data
+*.pcap
+*.pcapng
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
